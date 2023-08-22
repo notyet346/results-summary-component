@@ -25,8 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![scr375](https://github.com/ren-dani/results-summary-component-main/assets/126762774/6bca8cff-54f7-415a-b8f9-9b67d853f4cd)
-![scr1440](https://github.com/ren-dani/results-summary-component-main/assets/126762774/135fd641-ed98-487d-8180-4a587245ee20)
+![scr375](https://github.com/notyet346/results-summary-component/assets/49989017/508e62c8-e258-4aa6-ab95-1a961eff6174)
+
+![scr1440](https://github.com/notyet346/results-summary-component/assets/49989017/7f0e240a-0241-4b12-acbd-c67ade42cce1)
+
+
+
 
 
 ### Links
